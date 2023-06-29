@@ -1,7 +1,7 @@
 {
       "name": "cv",
       "version": "0.1.0",
-      "homepage": "https://solomonyeshiwas.github.io/Portfolio_New/",
+      "homepage": "https://solomonyeshiwas.github.io/Portfolio_New",
       "private": true,
       "dependencies": {
             "@react-pdf/renderer": "^2.2.0",
